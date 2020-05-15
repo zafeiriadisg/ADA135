@@ -5,7 +5,7 @@ Note: The links point to 2 seconds after the times noted in column 3. So the fir
 
 You may adjust the segment to start at the nearest beginning of a sentence.
 
-*The last segment must be extended to 01:41:10 to cover the entire duration of the lecture before the starting of questions*
+*The last segment must be extended to 01:41:10 to cover the entire duration of the lecture before the beginning of questions*
 
  | ! |    |          |                      | Use this link to get to your video segment          |      |
  | # |  1 | 00:03:40 | Δέσποινα Αλεξοπούλου | https://www.youtube.com/watch?v=hh_5_CAySXY&t=222s  |  222 |
