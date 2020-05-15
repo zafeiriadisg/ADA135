@@ -7,6 +7,9 @@ You may adjust the segment to start at the nearest beginning of a sentence.
 
 *The last segment must be extended to 01:41:10 to cover the entire duration of the lecture before the beginning of questions*
 
+/If your name is not on the following table, then transcribe a segment from the discussion session, which starts at 1:41:10./
+
+
  | ! |    |          |                      | Use this link to get to your video segment          |      |
  | # |  1 | 00:03:40 | Δέσποινα Αλεξοπούλου | https://www.youtube.com/watch?v=hh_5_CAySXY&t=222s  |  222 |
  | # |  2 | 00:11:40 | Γιώτα Ανδριάκαινα    | https://www.youtube.com/watch?v=hh_5_CAySXY&t=702s  |  702 |
