@@ -1,0 +1,16 @@
+***** Times allocation and links
+
+ | ! |    |          |                      | Use this link to get to your video segment          |      |
+ | # |  1 | 00:03:40 | Δέσποινα Αλεξοπούλου | https://www.youtube.com/watch?v=hh_5_CAySXY&t=222s  |  222 |
+ | # |  2 | 00:11:40 | Γιώτα Ανδριάκαινα    | https://www.youtube.com/watch?v=hh_5_CAySXY&t=702s  |  702 |
+ | # |  3 | 00:19:40 | Δημήτρης Γάκης       | https://www.youtube.com/watch?v=hh_5_CAySXY&t=1182s | 1182 |
+ | # |  4 | 00:27:40 | Γιώργος Ζαφειριάδης  | https://www.youtube.com/watch?v=hh_5_CAySXY&t=1662s | 1662 |
+ | # |  5 | 00:35:40 | Ζωή Ζηπέλα           | https://www.youtube.com/watch?v=hh_5_CAySXY&t=2142s | 2142 |
+ | # |  6 | 00:43:40 | Χριστίνα Καλαντζή    | https://www.youtube.com/watch?v=hh_5_CAySXY&t=2622s | 2622 |
+ | # |  7 | 00:51:40 | Ευτυχία Κονδύλη      | https://www.youtube.com/watch?v=hh_5_CAySXY&t=3102s | 3102 |
+ | # |  8 | 00:59:40 | Νίκος Κορακιανίτης   | https://www.youtube.com/watch?v=hh_5_CAySXY&t=3582s | 3582 |
+ | # |  9 | 01:07:40 | Ειρήνη Μούκα         | https://www.youtube.com/watch?v=hh_5_CAySXY&t=4062s | 4062 |
+ | # | 10 | 01:15:40 | Σίσσυ Μπαρακάρη      | https://www.youtube.com/watch?v=hh_5_CAySXY&t=4542s | 4542 |
+ | # | 11 | 01:23:40 | Μαργαρίτα Ξαγοράρη   | https://www.youtube.com/watch?v=hh_5_CAySXY&t=5022s | 5022 |
+ | # | 12 | 01:31:40 | Παντελής Ξενοφώντος  | https://www.youtube.com/watch?v=hh_5_CAySXY&t=5502s | 5502 |
+ | # | 13 | 01:39:40 | [τέλος]              | https://www.youtube.com/watch?v=hh_5_CAySXY&t=5982s | 5982 |
