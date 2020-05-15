@@ -1,4 +1,9 @@
-***** Times allocation and links
+* Times allocation and links
+
+Use the link in column 5 (right after your name) to get to the approximate time of the start of your segment.
+Note: The links point to 2 seconds after the times noted in column 3. So the first segment starts at 00:04:42, etc.
+
+You may adjust the segment to start at the nearest beginning of a sentence.
 
  | ! |    |          |                      | Use this link to get to your video segment          |      |
  | # |  1 | 00:03:40 | Δέσποινα Αλεξοπούλου | https://www.youtube.com/watch?v=hh_5_CAySXY&t=222s  |  222 |
